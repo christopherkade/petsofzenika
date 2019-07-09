@@ -6,7 +6,7 @@ import { Header } from "components/Header"
 import { AnimalCard } from "components/AnimalCard"
 
 const Wrapper = styled.div`
-  margin-top: 2rem;
+  margin: 2rem 0;
   display: flex;
   flex-wrap: wrap;
   padding: 0;
